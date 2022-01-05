@@ -1,0 +1,9 @@
+,Lymphocytes/Single Cells/Single Cells/Live | Freq. of Parent (%),Lymphocytes/Single Cells/Single Cells/Live | Geometric Mean (CD69),Lymphocytes/Single Cells/Single Cells/Live | Geometric Mean (PD-1),Lymphocytes/Single Cells/Single Cells/Live/PD1pos | Freq. of Parent (%),Lymphocytes/Single Cells/Single Cells/Live/CD69pos | Freq. of Parent (%)
+s1_001_0_nostim.fcs,93.3,84,457,5.75,3.82
+s1_002_6_nostim.fcs,92.3,64.8,423,5.36,2.07
+s2_003_0_nostim.fcs,91.8,65.4,449,6.41,1.84
+s2_004_6_nostim.fcs,92.8,87.2,463,7.99,2.82
+s3_005_0_nostim.fcs,94.2,137,555,13.1,4.79
+s3_006_6_stim.fcs,85.1,1436,566,12.3,72.3
+Mean,Disregarded by script,1131,1499,36.5,38.1
+SD,8.66,1590,1577,26.3,37
